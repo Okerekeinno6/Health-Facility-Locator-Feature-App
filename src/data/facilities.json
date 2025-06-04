@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "General Hospital",
+    "type": "hospital",
+    "services": ["immunization", "radiology"],
+    "location": { "lat": 6.5244, "lng": 3.3792 }
+  },
+  {
+    "id": 2,
+    "name": "Peace Pharmacy",
+    "type": "pharmacy",
+    "services": ["vaccination", "prescription"],
+    "location": { "lat": 6.5433, "lng": 3.4002 }
+  }
+]
